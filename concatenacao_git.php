@@ -50,8 +50,8 @@
 		echo '<br />';
 
 		echo "Ola $nome";
-		echo "sua $idade";
-		echo "seu $peso";
+		echo "sua idade é $idade";
+		echo "seu peso é $peso";
 		echo "voce fuma $fumante";
 	?>
 </body>
