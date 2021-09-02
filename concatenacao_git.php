@@ -21,9 +21,9 @@
 		echo '<br />';
 
 		echo "Ola $nome";
-		echo "sua idade é $idade";
-		echo "seu peso é $peso";
-		echo "voce fuma $fumante";
+		echo "sua idade é $idade, ";
+		echo "seu peso é $peso, ";
+		echo "e voce fuma $fumante carteira por dia.";
 	?>
 </body>
 >>>>>>> 204a0f25020fb6e8dcba411b58ad57686e0aeb9f
