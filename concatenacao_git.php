@@ -22,7 +22,7 @@
 
 		echo "Ola $nome";
 		echo "sua $idade";
-		echo "seu $peso"
+		echo "seu é $peso"
 	?>
 </body>
 </html>
