@@ -52,6 +52,7 @@
 		echo "Ola $nome";
 		echo "sua $idade";
 		echo "seu $peso";
+		echo "voce fuma $fumante";
 	?>
 </body>
 >>>>>>> 204a0f25020fb6e8dcba411b58ad57686e0aeb9f
