@@ -23,7 +23,12 @@
 		echo "Ola $nome, ";
 		echo "sua idade é $idade anos, ";
 		echo "seu peso é $peso kg, ";
-		echo "e você fuma $fumante carteira por dia.";
+		echo "e você fuma $fumante carteira por dia."
 	?>
 </body>
 </html>
+
+</body>
+>>>>>>> 204a0f25020fb6e8dcba411b58ad57686e0aeb9f
+</html>
+>>>>>>> 5c63fa3d725d121c1e53e08ef4d108f8b45b455e
